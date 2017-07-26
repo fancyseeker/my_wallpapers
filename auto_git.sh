@@ -1,4 +1,5 @@
-#!/bin/sh
+#!/bin/bash
+echo holyshit > /home/chen/test.txt
 git pull
 git add . -A
 DATE=`date +%x`
